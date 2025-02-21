@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 Software Engineer | 🚀 Innovator | 🎯 Problem Solver
+💻 Software Engineer
 
 I’m a Computer Science student at UCLA passionate about building scalable applications, AI-driven solutions, and impactful software products. My experience spans full-stack development, machine learning, and embedded systems, with a strong focus on creating user-friendly and performance-optimized applications.
 
