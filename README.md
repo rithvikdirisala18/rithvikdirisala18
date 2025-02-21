@@ -5,19 +5,23 @@ I’m a Computer Science student at UCLA passionate about building scalable appl
 
 # 🛠 What I Do
   🔸 Software Engineering: I specialize in full-stack development using JavaScript, Python, C++, and Swift, working with frameworks like Node.js, React, Flask, and Express.js.
+  
   🔸 Machine Learning & AI: I've developed predictive models for wildfire forecasting, leveraging random forests, neural networks, and data-driven optimizations.
+  
   🔸 Cloud & DevOps: Experienced in AWS S3, Docker, and CI/CD workflows, ensuring scalable and efficient software deployment.
+  
   🔸 Startup Projects: Currently working on two startup ideas, focusing on innovative solutions in social engagement and marketplace platforms.
+  
   🔸 Embedded Systems: Have worked with Arduino and sensor-based data collection for physics experiments and IoT applications.
 
 # 🚀 What I’m Working On
-  🔸 AI-Powered Image Generation Web App
+  🔸 AI-Powered Image Generation Web App:
   Built a MERN stack application integrating OpenAI's DALL·E API, allowing users to generate AI-driven artwork and share it in a public gallery.
 
-  🔸 AI Chatbot for Elderly Assistance
+  🔸 AI Chatbot for Elderly Assistance:
   Developing a Flask-based AI chatbot to provide health-related insights and reminders for elderly users, improving accessibility and engagement.
 
-  🔸 Innovative Startup Projects
+  🔸 Innovative Startup Projects:
   Currently co-developing two startup ideas—one in the social media space and another in online marketplaces, both integrating scalable cloud solutions and mobile-first design.
 
 # 📜 Experience & Research
@@ -32,4 +36,5 @@ Summer Research @ ASSIP (George Mason University):
 Founder & Leader:
 
   🔸 Created and led a high school Science Bowl team, organizing fundraisers, practice sessions, and competition strategies.
-  🔸 Active in UCLA’s ACM AI Club and AgeWell Bruins machine learning group.
+  
+  🔸 Active in UCLA’s ACM AI Club and AgeWell Bruins web development group.
