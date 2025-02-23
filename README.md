@@ -15,14 +15,15 @@ I’m a Computer Science student at UCLA passionate about building scalable appl
   🔸 Embedded Systems: Have worked with Arduino and sensor-based data collection for physics experiments and IoT applications.
 
 # 🚀 What I’m Working On
-  🔸 AI-Powered Image Generation Web App:
-  Built a MERN stack application integrating OpenAI's DALL·E API, allowing users to generate AI-driven artwork and share it in a public gallery.
+
+  🔸 Innovative Startup Projects:
+  Currently co-developing two startup ideas—one in the social media space and another in online marketplaces, both integrating scalable cloud solutions and mobile-first design.
 
   🔸 AI Chatbot for Elderly Assistance:
   Developing a Flask-based AI chatbot to provide health-related insights and reminders for elderly users, improving accessibility and engagement.
 
-  🔸 Innovative Startup Projects:
-  Currently co-developing two startup ideas—one in the social media space and another in online marketplaces, both integrating scalable cloud solutions and mobile-first design.
+  🔸 AI-Powered Image Generation Web App:
+  Built a MERN stack application integrating OpenAI's DALL·E API, allowing users to generate AI-driven artwork and share it in a public gallery.
 
 # 📜 Experience & Research
 Software Engineering Intern @ IPMD Inc.:
