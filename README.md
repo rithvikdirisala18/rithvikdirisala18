@@ -39,6 +39,10 @@ Founder & Leader:
   🔸 Created and led a high school Science Bowl team, organizing fundraisers, practice sessions, and competition strategies.
   
   🔸 Active in UCLA’s ACM AI Club and AgeWell Bruins web development group.
+
+# 📄 Publications
+
+- ["Predicting Wildfire Strength and Duration Over the United States with Machine Learning Methods"](https://journals.gmu.edu/index.php/jssr/article/view/3258) – Published in Mason Journals, 2022
   
 # 📬 Contact Me
 
