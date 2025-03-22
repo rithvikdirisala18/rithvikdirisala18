@@ -43,4 +43,4 @@ Founder & Leader:
 ## 📬 Contact Me
 
 - Email: [rithvik.md5@gmail.com](mailto:rithvik.md5@gmail.com)
-- LinkedIn: [Rithvik Dirisala]((https://www.linkedin.com/in/rithvik-dirisala/))
+- LinkedIn: [Rithvik Dirisala](https://www.linkedin.com/in/rithvik-dirisala/)
