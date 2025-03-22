@@ -44,7 +44,6 @@ Founder & Leader:
 
 - ["Predicting Wildfire Strength and Duration Over the United States with Machine Learning Methods"](https://journals.gmu.edu/index.php/jssr/article/view/3258) – Published in Mason Journals, 2022
   
-# 📬 Contact Me
-
-- Email: [rithvik.md5@gmail.com](mailto:rithvik.md5@gmail.com)
-- LinkedIn: [Rithvik Dirisala](https://www.linkedin.com/in/rithvik-dirisala/)
+# 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rithvik-dirisala/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:rithvikdirisala18@gmail.com)
