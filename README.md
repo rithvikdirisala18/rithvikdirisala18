@@ -40,7 +40,7 @@ Founder & Leader:
   
   🔸 Active in UCLA’s ACM AI Club and AgeWell Bruins web development group.
   
-## 📬 Contact Me
+# 📬 Contact Me
 
 - Email: [rithvik.md5@gmail.com](mailto:rithvik.md5@gmail.com)
 - LinkedIn: [Rithvik Dirisala](https://www.linkedin.com/in/rithvik-dirisala/)
