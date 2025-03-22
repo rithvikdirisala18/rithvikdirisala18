@@ -47,3 +47,8 @@ Founder & Leader:
 # 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rithvik-dirisala/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:rithvikdirisala18@gmail.com)
+
+## 📈 GitHub Stats
+
+![Rithvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvikdirisala18&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvikdirisala18&layout=compact&theme=radical)
