@@ -39,3 +39,8 @@ Founder & Leader:
   🔸 Created and led a high school Science Bowl team, organizing fundraisers, practice sessions, and competition strategies.
   
   🔸 Active in UCLA’s ACM AI Club and AgeWell Bruins web development group.
+  
+## 📬 Contact Me
+
+- Email: [rithvik.md5@gmail.com](mailto:rithvik.md5@gmail.com)
+- LinkedIn: [Rithvik Dirisala]((https://www.linkedin.com/in/rithvik-dirisala/))
