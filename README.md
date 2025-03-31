@@ -50,5 +50,4 @@ Founder & Leader:
 
 ## 📈 GitHub Stats
 
-![Rithvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvikdirisala18&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvikdirisala18&layout=compact&theme=radical)
