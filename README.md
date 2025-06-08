@@ -1,9 +1,9 @@
-Hi there 👋, I'm **Rithvik Dirisala**  
+**Rithvik Dirisala**  
 💻 Software Engineer
 
 I am a Computer Science Student interested in Software Development and AI/ML -- especially in LLMs and their underlying architecture. My experience spans full-stack development, machine learning, and embedded systems, with a strong focus on creating user-friendly and performance-optimized applications.
 
-## 🛠 What I Do
+## 🛠 My abilities
   🔸 Software Engineering: I specialize in full-stack development using JavaScript, Python, C++, and Swift, working with frameworks like Node.js, React, Flask, and Express.js.
   
   🔸 Machine Learning & AI: I've developed predictive models for wildfire forecasting, leveraging random forests, neural networks, and data-driven optimizations.
