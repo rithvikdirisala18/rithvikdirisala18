@@ -41,6 +41,10 @@ I’m a Computer Science student with a strong foundation in full-stack software
 
 ## Experience & Research
 
+**GPU SWE Intern — Intel**  
+- Will expand Intel’s internal graphics security dashboard using modern web technologies and Kubernetes to automate risk reporting
+- Will contribute to identifying and mitigating GPU-related vulnerabilities across integrated/discrete graphics, media, 3D, and AI system
+
 **Software Engineering Intern — IPMD Inc.**  
 - Built and maintained RESTful APIs, optimized UI performance, and implemented emotion analysis models in healthcare and emergency response applications.
 
