@@ -1,5 +1,5 @@
 <h1 align="center">Rithvik Dirisala</h1>
-<h3 align="center">Software Engineer | AI/ML Researcher | Builder</h3>
+<h3 align="center">Software Engineer | AI/ML Researcher</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rithvik-dirisala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
