@@ -58,6 +58,7 @@ I’m a Computer Science student with a strong foundation in full-stack software
 
 **"Predicting Wildfire Strength and Duration Over the United States with Machine Learning Methods"**  
 Published in *Mason Research Journals*, 2022
+(https://journals.gmu.edu/index.php/jssr/article/view/3258)
 
 ---
 
