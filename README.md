@@ -18,7 +18,7 @@ I’m a Computer Science student with a strong foundation in full-stack software
 
 - **Languages**: Python, JavaScript, C++, Swift  
 - **Frameworks**: React, Node.js, Flask, Express.js, SwiftUI  
-- **AI/ML**: Scikit-learn, TensorFlow, PyTorch, OpenAI APIs  
+- **AI/ML**: Scikit-learn, TensorFlow, PyTorch, Spacy, HuggingFace
 - **DevOps & Cloud**: Docker, AWS S3/EC2, GitHub Actions, Render  
 - **Databases**: MongoDB, PostgreSQL  
 - **Embedded Systems**: Arduino, sensor-based data collection  
@@ -28,15 +28,18 @@ I’m a Computer Science student with a strong foundation in full-stack software
 
 ## Current Projects
 
-- **Social and Marketplace Startups**  
-  Co-developing two venture-stage startup ideas focused on social connection and digital marketplaces, with emphasis on scalable cloud infrastructure and intuitive UX.
+- **Startups**  
+  Co-developing two startup ideas focused on social connection and digital marketplaces, with emphasis on scalable cloud infrastructure and intuitive UX.
 
 - **AI Chatbot for Elderly Care**  
-  Developing a health-focused AI chatbot in Flask that delivers personalized reminders and information to support elderly users. Special attention is given to accessibility and ease of use.
+  Developing a health-focused AI chatbot in Flask that delivers personalized reminders and information to support elderly users. Special attention is given to accessibility and ease of use. Streamlines patient care for doctors and caretakers. Ensures safety features by dialling 911 when emergency is detected in text.
 
 - **Image Generation Web App**  
   A full-stack MERN application that integrates OpenAI’s DALL·E API, allowing users to generate AI-generated artwork and share it
 publicly in a community gallery.
+
+- **AI-Interview Assistant**
+  Helps prepare for any interview through prompting the user what type of questions, how many questions, which type of role, and which company. Once questions are stored on FireBase, the user can then test their interviewing ability. Using the transcript, the user is given feedback on improvements. The AI voice call pipeline was built on vapi and the framework for the website itself was next.js.
 
 - **TraceNet**
   AI-powered graph builder that uses transformer-based spaCy models to extract entities and subject–verb–object relationships from
