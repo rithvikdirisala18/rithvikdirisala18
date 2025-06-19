@@ -35,8 +35,13 @@ I’m a Computer Science student with a strong foundation in full-stack software
   Developing a health-focused AI chatbot in Flask that delivers personalized reminders and information to support elderly users. Special attention is given to accessibility and ease of use.
 
 - **Image Generation Web App**  
-  A full-stack MERN application that integrates OpenAI’s DALL·E API, allowing users to generate AI-generated artwork and share it publicly in a community gallery.
+  A full-stack MERN application that integrates OpenAI’s DALL·E API, allowing users to generate AI-generated artwork and share it
+publicly in a community gallery.
 
+- **TraceNet**
+  AI-powered graph builder that uses transformer-based spaCy models to extract entities and subject–verb–object relationships from
+unstructured text. It generates interactive knowledge graphs to visualize how people, organizations, and concepts connect across
+narratives—ideal for research, journalism, and intelligence tasks.
 ---
 
 ## Experience & Research
