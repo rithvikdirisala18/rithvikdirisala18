@@ -44,7 +44,8 @@ publicly in a community gallery.
 - **TraceNet**
   AI-powered graph builder that uses transformer-based spaCy models to extract entities and subject–verb–object relationships from
 unstructured text. It generates interactive knowledge graphs to visualize how people, organizations, and concepts connect across
-narratives—ideal for research, journalism, and intelligence tasks.
+narratives—ideal for research, journalism, and intelligence tasks. (Currently working on refactoring how it works with a more
+lightweight NLP model as larger models are failing in production but deployed here on Vercel: https://trace-net.vercel.app/)
 ---
 
 ## Experience & Research
