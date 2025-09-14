@@ -39,14 +39,12 @@ I’m a Computer Science student with a strong foundation in full-stack software
 publicly in a community gallery.
 
 - **AI-Interview Assistant**
-  Helps prepare for any interview through prompting the user what type of questions, how many questions, which type of role, and which company. Once questions are stored on FireBase, the user can then test their interviewing ability. Using the transcript, the user is given feedback on improvements. The AI voice call pipeline was built on vapi and the framework for the website itself was next.js.
+  Helps prepare for any interview through prompting the user what type of questions, how many questions, which type of role, and which company. Once questions are stored on FireBase, the user can then test their interviewing ability. Using the transcript, the user is given feedback on improvements. The AI voice call pipeline was built on vapi(since vapi is now paid, trying to redeploy with new tools) and the framework for the website itself was next.js.
 
 - **TraceNet**
   AI-powered graph builder that uses transformer-based spaCy models to extract entities and subject–verb–object relationships from
 unstructured text. It generates interactive knowledge graphs to visualize how people, organizations, and concepts connect across
-narratives—ideal for research, journalism, and intelligence tasks. (Currently working on refactoring how it works with a more
-lightweight NLP model as larger models are failing in production but deployed here on Vercel: https://trace-net.vercel.app/)
----
+narratives—ideal for research, journalism, and intelligence tasks. (Currently working on refactoring how it works  to allow better user experience but new version will be deployed by September 31st here: https://trace-net-3jjb.vercel.app/)
 
 ## Experience & Research
 
